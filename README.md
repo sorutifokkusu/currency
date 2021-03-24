@@ -29,3 +29,7 @@ Kullanım:
 Currency data : https://exchangeratesapi.io/
 
 For educational prupose
+
+Requirement:
+json
+requests
