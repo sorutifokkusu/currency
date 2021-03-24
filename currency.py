@@ -5,7 +5,6 @@ birim = requests.get("https://api.exchangeratesapi.io/latest")
 birim = json.loads(birim.text)
 birim = birim["rates"]
 birimstr = ""
-print
 print("".center(100,"*"))
 print("Kur Hesaplama".center(100,"*"))
 print("".center(100,"*"))
